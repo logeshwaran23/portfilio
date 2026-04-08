@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://logeshwaran23.github.io/portfilio/sitemap.xml
